@@ -7,7 +7,7 @@ const CartItem = ({ item, onUpdateCartQty, onRemoveFromCart }) => {
   const classes = useStyles();
 
 
-  console.log(item);
+  // console.log(item);
 
   return (
     <Card>
